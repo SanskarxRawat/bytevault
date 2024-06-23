@@ -1,4 +1,4 @@
-![ByteVault](/src/main/resources/static/ByteVault.png)
+![ByteVault](/screenshots/ByteVault.png)
 
 # Bytevault
 
