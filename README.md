@@ -2,8 +2,7 @@
 
 # Bytevault
 
-A high-performance, disk-based key-value store inspired by Bitcask.
-
+Bytevault is a high-performance, disk-based key-value store inspired by Bitcask. It is designed for efficient data handling with fast read and write operations, ensuring data integrity during concurrent access. Bytevault is built to handle large datasets with efficient indexing and offers reliable, crash-friendly operation with quick recovery.
 ## What does Bytevault offer?
 
 - **Fast**: Delivers quick read and write operations for efficient data handling.
